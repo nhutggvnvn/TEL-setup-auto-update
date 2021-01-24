@@ -9,3 +9,7 @@ pkg install wget
 wget -O install-nethunter-termux https://offs.ec/2MceZWr
 chmod +x install-nethunter-termux
 ./install-nethunter-termux
+
+Tips:
+Run sudo apt update && sudo apt full-upgrade first thing after installation. If you have plenty of storage space available you might want to run apt install kali-linux-default as well.
+
