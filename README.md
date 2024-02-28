@@ -2,6 +2,14 @@
 
 modified to work without root. Only for modified termux that populate appcache file.
 
+**Android cài đặt (Termux)**
+
+    pkg install git -y && git clone https://github.com/nhutggvnvn/TEL-setup-auto-update && cd TEL-setup-auto-update && python auto_setuptel_termux.py
+
+
+ Run
+----
+
 # Installation
 
 1. install fzf `pkg install fzf`
